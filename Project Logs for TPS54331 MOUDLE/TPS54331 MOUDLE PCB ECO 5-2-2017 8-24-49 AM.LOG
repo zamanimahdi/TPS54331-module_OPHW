@@ -1,0 +1,130 @@
+Added Component: Designator=C23(MY_0805)
+Added Component: Designator=C24(MY_1210)
+Added Component: Designator=C25(MY_1210)
+Added Component: Designator=C26(MY_1210)
+Added Component: Designator=C27(MY_SMC_D)
+Added Component: Designator=C28(MY_1206)
+Added Component: Designator=C29(CAP 1206 (3216X15L))
+Added Component: Designator=C30(MY_0805)
+Added Component: Designator=C31(MY_0805)
+Added Component: Designator=C32(MY_0805)
+Added Component: Designator=GPSBIAS?(SOLDERJUMPER_ARROW_NOPASTE)
+Added Component: Designator=GPSBIAS?(SOLDERJUMPER_ARROW_NOPASTE)
+Added Component: Designator=L1(MY_DR1030)
+Added Component: Designator=M1(Board Screw)
+Added Component: Designator=M2(Board Screw)
+Added Component: Designator=M3(Board Screw)
+Added Component: Designator=M4(Board Screw)
+Added Component: Designator=P1(HDR1X2)
+Added Component: Designator=P2(HDR1X2)
+Added Component: Designator=R35(MY_0805)
+Added Component: Designator=R36(MY_0805)
+Added Component: Designator=R37(MY_0805)
+Added Component: Designator=R38(MY_0805)
+Added Component: Designator=R39(MY_0805)
+Added Component: Designator=SS1(Diode smd)
+Added Component: Designator=U4(SOIC8_M)
+Added Component: Designator=VR1(Multi Turn 02)
+Added Pin To Net: NetName=+3.3 Pin=C24-2
+Added Pin To Net: NetName=+3.3 Pin=C25-2
+Added Pin To Net: NetName=+3.3 Pin=C26-2
+Added Pin To Net: NetName=+3.3 Pin=GPSBIAS?-2
+Added Pin To Net: NetName=+3.3 Pin=L1-2
+Added Pin To Net: NetName=+3.3 Pin=P1-1
+Added Pin To Net: NetName=+3.3 Pin=VR1-2
+Added Net: Name=+3.3
+Added Pin To Net: NetName=+12 Pin=C27-+
+Added Pin To Net: NetName=+12 Pin=C28-2
+Added Pin To Net: NetName=+12 Pin=C29-2
+Added Pin To Net: NetName=+12 Pin=P2-2
+Added Pin To Net: NetName=+12 Pin=R36-1
+Added Pin To Net: NetName=+12 Pin=U4-2
+Added Net: Name=+12
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C27--
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=GND Pin=GPSBIAS?-1
+Added Pin To Net: NetName=GND Pin=M1-S
+Added Pin To Net: NetName=GND Pin=M1-S
+Added Pin To Net: NetName=GND Pin=M1-S
+Added Pin To Net: NetName=GND Pin=M1-S
+Added Pin To Net: NetName=GND Pin=M1-S
+Added Pin To Net: NetName=GND Pin=M1-S
+Added Pin To Net: NetName=GND Pin=M1-S
+Added Pin To Net: NetName=GND Pin=M1-S
+Added Pin To Net: NetName=GND Pin=M1-S
+Added Pin To Net: NetName=GND Pin=M2-S
+Added Pin To Net: NetName=GND Pin=M2-S
+Added Pin To Net: NetName=GND Pin=M2-S
+Added Pin To Net: NetName=GND Pin=M2-S
+Added Pin To Net: NetName=GND Pin=M2-S
+Added Pin To Net: NetName=GND Pin=M2-S
+Added Pin To Net: NetName=GND Pin=M2-S
+Added Pin To Net: NetName=GND Pin=M2-S
+Added Pin To Net: NetName=GND Pin=M2-S
+Added Pin To Net: NetName=GND Pin=M3-S
+Added Pin To Net: NetName=GND Pin=M3-S
+Added Pin To Net: NetName=GND Pin=M3-S
+Added Pin To Net: NetName=GND Pin=M3-S
+Added Pin To Net: NetName=GND Pin=M3-S
+Added Pin To Net: NetName=GND Pin=M3-S
+Added Pin To Net: NetName=GND Pin=M3-S
+Added Pin To Net: NetName=GND Pin=M3-S
+Added Pin To Net: NetName=GND Pin=M3-S
+Added Pin To Net: NetName=GND Pin=M4-S
+Added Pin To Net: NetName=GND Pin=M4-S
+Added Pin To Net: NetName=GND Pin=M4-S
+Added Pin To Net: NetName=GND Pin=M4-S
+Added Pin To Net: NetName=GND Pin=M4-S
+Added Pin To Net: NetName=GND Pin=M4-S
+Added Pin To Net: NetName=GND Pin=M4-S
+Added Pin To Net: NetName=GND Pin=M4-S
+Added Pin To Net: NetName=GND Pin=M4-S
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=R38-2
+Added Pin To Net: NetName=GND Pin=R39-2
+Added Pin To Net: NetName=GND Pin=SS1-0
+Added Pin To Net: NetName=GND Pin=U4-7
+Added Pin To Net: NetName=GND Pin=VR1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC23_1 Pin=C23-1
+Added Pin To Net: NetName=NetC23_1 Pin=U4-1
+Added Net: Name=NetC23_1
+Added Pin To Net: NetName=NetC23_2 Pin=C23-2
+Added Pin To Net: NetName=NetC23_2 Pin=L1-1
+Added Pin To Net: NetName=NetC23_2 Pin=SS1-1
+Added Pin To Net: NetName=NetC23_2 Pin=U4-8
+Added Net: Name=NetC23_2
+Added Pin To Net: NetName=NetC30_1 Pin=C30-1
+Added Pin To Net: NetName=NetC30_1 Pin=R39-1
+Added Net: Name=NetC30_1
+Added Pin To Net: NetName=NetC30_2 Pin=C30-2
+Added Pin To Net: NetName=NetC30_2 Pin=C31-2
+Added Pin To Net: NetName=NetC30_2 Pin=U4-6
+Added Net: Name=NetC30_2
+Added Pin To Net: NetName=NetC32_2 Pin=C32-2
+Added Pin To Net: NetName=NetC32_2 Pin=U4-4
+Added Net: Name=NetC32_2
+Added Pin To Net: NetName=NetGPSBIAS?_1 Pin=GPSBIAS?-1
+Added Pin To Net: NetName=NetGPSBIAS?_1 Pin=R35-1
+Added Net: Name=NetGPSBIAS?_1
+Added Pin To Net: NetName=NetGPSBIAS?_2 Pin=GPSBIAS?-2
+Added Pin To Net: NetName=NetGPSBIAS?_2 Pin=R37-2
+Added Net: Name=NetGPSBIAS?_2
+Added Pin To Net: NetName=NetR35_2 Pin=R35-2
+Added Pin To Net: NetName=NetR35_2 Pin=R37-1
+Added Pin To Net: NetName=NetR35_2 Pin=U4-5
+Added Pin To Net: NetName=NetR35_2 Pin=VR1-3
+Added Net: Name=NetR35_2
+Added Pin To Net: NetName=NetR36_2 Pin=R36-2
+Added Pin To Net: NetName=NetR36_2 Pin=R38-1
+Added Pin To Net: NetName=NetR36_2 Pin=U4-3
+Added Net: Name=NetR36_2
+Added Class: Name=TPS54331
+Added Room: Name=TPS54331
